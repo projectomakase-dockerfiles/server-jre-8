@@ -4,8 +4,8 @@ This repository contains the base image that is used to build images that requir
 
 ## Image
 
-The image **extends** the `projectomakase/base:latest` image and installs the Oracle Server JRE 8u51-b16 distribution.
+The image **extends** the `projectomakase/base:latest` image and installs the Oracle Server JRE 8 distribution.
 
 ## Availability
 
-The `Dockerfile` is available in the `master` branch and is built in the Docker HUB as `projectomakase/server-jre:latest`.
+The `Dockerfile` is available in the `master` branch and is built in the Docker HUB as `projectomakase/server-jre-8:latest`.
